@@ -99,7 +99,8 @@ plt.show()
 
 ```
 
-OUTPUT:
+### OUTPUT:
+
 <img width="1084" height="539" alt="image" src="https://github.com/user-attachments/assets/ef9a02b7-6ee1-436e-931d-5f207011a9d6" />
 <img width="1289" height="306" alt="image" src="https://github.com/user-attachments/assets/1f4e2f0f-35df-4093-a9d8-df0c8b72e180" />
 <img width="1266" height="294" alt="image" src="https://github.com/user-attachments/assets/44aa272d-37a9-477d-9351-9c0824992d00" />
@@ -111,5 +112,5 @@ OUTPUT:
 <img width="878" height="445" alt="image" src="https://github.com/user-attachments/assets/b58d4741-2fd6-4d62-b74e-d3c158d0820a" />
 
 
-RESULT:
+### RESULT:
 Thus, a python program is created to fir ARMA Model successfully.
